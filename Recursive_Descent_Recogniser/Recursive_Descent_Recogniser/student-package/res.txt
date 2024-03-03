@@ -1,0 +1,33 @@
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: IDENTIFIER
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: else
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: *
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: IDENTIFIER
+
+Compilation Exception
+	Caused by Expected symbol: EOF, but found: IDENTIFIER
+
