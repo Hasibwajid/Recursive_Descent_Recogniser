@@ -11,7 +11,9 @@
 Press 'Enter' to execute the compilation command.
 
 After successful compilation, run the following command to execute the compiler:
-    java Compile
+
+      java Compile
+      
 Press 'Enter' to run the compiler.
 
 
