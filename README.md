@@ -18,6 +18,7 @@ Press 'Enter' to run the compiler.
 
 
 **Understanding Compilation Exceptions**
+
 CompilationException - SyntaxError in Program 2
 
     Issue: Typo in the keyword "begim" instead of "begin".
@@ -49,6 +50,7 @@ CompilationException - SyntaxError in Program 7
     Cause: Syntax error in the conditional statement, lacking the required then keyword.
 
 **Compilation Exceptions**
+
 Caused by Expected symbol: EOF, but found:
 
     Issue: Unexpected symbol at the end of the program, possibly an extra character or syntax error.
@@ -65,6 +67,7 @@ Caused by Expected symbol: EOF, but found: IDENTIFIER
     Cause: The program expects the end-of-file (EOF) symbol but encounters an identifier instead.
 
 **Note**
+
 After implementing try-catch blocks, the specific symbols causing the issues have changed, but the general nature of the problems remains.
 
 **Contact**
